@@ -1,0 +1,26 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #fdfdfd;
+  color: #222;
+}
+
+h1, h2, h3, h5 {
+  font-weight: 700;
+}
+
+section {
+  padding: 60px 0;
+}
+
+.img-fluid {
+  border-radius: 0;
+}
+
+footer {
+  font-size: 0.9rem;
+}
+
+.emoji-grande {
+  font-size: 4rem;
+  margin-bottom: 10px;
+}
